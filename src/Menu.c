@@ -1,14 +1,3 @@
-/**
- * @file Menu.c
- * @author Bhavya Thotakura
- * @brief 
- * @version 0.1
- * @date 2021-09-06
- * 
- * @copyright Copyright (c) 2021
- * 
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -17,13 +6,13 @@
 
 int mainMenu() {
 
-    printf("******************Hello!*******************\n");
-    printf("**********Welcome to ATM Banking***********\n\n");
-    printf("****Please choose one of the options below****\n\n");
-    printf("< 1 >  Check Balance\n");
-    printf("< 2 >  Deposit\n");
-    printf("< 3 >  Withdraw\n");
-    printf("< 4 >  Exit\n\n");
+    printf("******************Bonjour!*******************\n");
+    printf("******Bienvenue au Caisse automatique********\n\n");
+    printf("***Veuillez choisir une option ci-dessous****\n\n");
+    printf("< 1 >  Voir le solde\n");
+    printf("< 2 >  Depôt\n");
+    printf("< 3 >  Retraite\n");
+    printf("< 4 >  Quitter le système\n\n");
     return 6;
 
-}//Main Menu
+}

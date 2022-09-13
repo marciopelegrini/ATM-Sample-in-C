@@ -1,0 +1,17 @@
+# ninja log v5
+0	262	1663030322914824054	CMakeFiles/ATM_Sample_in_C.dir/src/deposit.c.o	6bc34a8bcfc135ef
+1	263	1663030322914811587	CMakeFiles/ATM_Sample_in_C.dir/src/error.c.o	4d391fd335ad0de
+1	263	1663030322914792343	CMakeFiles/ATM_Sample_in_C.dir/src/exit.c.o	a282e69810d81bfe
+2	263	1663030322914834082	CMakeFiles/ATM_Sample_in_C.dir/src/Menu.c.o	34aa229d2781f435
+3	263	1663030322914782209	CMakeFiles/ATM_Sample_in_C.dir/src/withdraw.c.o	5e5b4404e4bffad5
+0	61	1663030355807936286	CMakeFiles/ATM_Sample_in_C.dir/src/balance.c.o	b2de8cf87e43b821
+0	96	1663030355842532997	CMakeFiles/ATM_Sample_in_C.dir/main.c.o	5a67fa245e6ec086
+97	209	1663030355956947933	ATM_Sample_in_C	9ac931c4894e6a90
+0	111	1663031408467250315	CMakeFiles/ATM_Sample_in_C.dir/src/balance.c.o	b2de8cf87e43b821
+1	116	1663031408471534167	CMakeFiles/ATM_Sample_in_C.dir/src/exit.c.o	a282e69810d81bfe
+2	116	1663031408471536161	CMakeFiles/ATM_Sample_in_C.dir/src/Menu.c.o	34aa229d2781f435
+2	116	1663031408472507771	CMakeFiles/ATM_Sample_in_C.dir/src/withdraw.c.o	5e5b4404e4bffad5
+1	117	1663031408471680747	CMakeFiles/ATM_Sample_in_C.dir/src/deposit.c.o	6bc34a8bcfc135ef
+1	117	1663031408471888459	CMakeFiles/ATM_Sample_in_C.dir/src/error.c.o	4d391fd335ad0de
+111	169	1663031408525762172	CMakeFiles/ATM_Sample_in_C.dir/main.c.o	5a67fa245e6ec086
+169	241	1663031408600030180	ATM_Sample_in_C	9ac931c4894e6a90
